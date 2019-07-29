@@ -1,0 +1,15 @@
+# Syntax Coloring Map For MCP4631
+
+# Datatypes (KEYWORD1)
+MCP4631	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
+WIPER_0	LITERAL1
+WIPER_1	LITERAL1
